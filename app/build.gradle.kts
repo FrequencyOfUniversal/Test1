@@ -45,6 +45,7 @@ dependencies {
     implementation("androidx.media3:media3-exoplayer:1.3.1")
     implementation("androidx.media3:media3-session:1.3.1")
     implementation("androidx.media3:media3-common:1.3.1")
+    implementation("com.google.guava:guava:33.2.1-android")
 
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
